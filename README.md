@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently web developer, learned by myself and a formation with the Wild Code School. Looking for new collaborations and feedback. :)<br>🌱 Passionate about coding, continuous learning, and new technologies.<br>👯 Eager to collaborate on open source projects and innovative initiatives.<br>💬 Available to chat about web development, UX/UI design, and best practices.<br>📫 How to reach me: SOON !<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I love solving coding puzzles and participating in hackathons!</p>
+<p align="left">🔭 I’m currently web developer, learned by myself and now gradued from Wild Code School. Looking for new collaborations and feedback. :)<br>🌱 Passionate about coding, continuous learning, and new technologies.<br>👯 Eager to collaborate on open source projects and innovative initiatives.<br>💬 Available to chat about web development, UX/UI design, and best practices.<br>📫 How to reach me: SOON !<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I love solving coding puzzles and participating in hackathons!</p>
 
 ###
 
